@@ -26,7 +26,7 @@ SECRET_KEY = 'c2%cgn5xj$8#b#69m-)zh6v(6%5s4zr(4bd-ft8mb11xguto$i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['portfulio.herokuapp.com','127.0.0.1/projects']
+ALLOWED_HOSTS = ['mehash-portfolio.herokuapp.com','127.0.0.1/projects']
 
 
 
